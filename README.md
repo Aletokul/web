@@ -61,7 +61,7 @@
   4. **Upravljanje terenima**
      - Admin može da dodaje, menja ili briše terene (tabela fields)
     
-### Prirodno-matematički fakultet Univerziteta u Novom Sadu 2025
+<br><p align="center"><strong>Prirodno-matematički fakultet</strong><br> Univerzitet u Novom Sadu, 2025 </p><br>
 
 
 
@@ -128,7 +128,8 @@
   4. **Managing Fields**
      - The admin can add, edit, or delete fields (from the fields table)
     
-### The Faculty of Sciences at the University of Novi Sad 2025
+<br><p align="center"><strong>Faculty of Sciences</strong><br>University of Novi Sad, 2025</p>
+
 
 
 
