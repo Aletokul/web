@@ -106,13 +106,13 @@
   2. **Viewing Available Fields**
      - On fields.php, users can view all fields (name, location, type, price, capacity)
      - They can select a preferred field and time slot
-  3. Creating a Reservation
+  3. **Creating a Reservation**
      - The reservation.php page allows users to pick a date and time
      - The system checks for availability and prevents duplicate bookings
-  4. Viewing and Canceling Reservations
+  4. **Viewing and Canceling Reservations**
      - On myres.php, users can see their own reservations
      - They can cancel a reservation (if the time has not passed yet)
-  5. Logout
+  5. **Logout**
      - Clicking “Logout” (logout.php) clears the session and cookies
 
 ### Admin
